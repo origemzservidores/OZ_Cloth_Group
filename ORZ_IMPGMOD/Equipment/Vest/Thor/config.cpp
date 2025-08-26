@@ -60,17 +60,17 @@ class cfgVehicles
 				{
 					class Health 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 					
 					class Blood 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 					
 					class Shock 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 				};
 				
@@ -78,17 +78,17 @@ class cfgVehicles
 				{
 					class Health 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 					
 					class Blood 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 					
 					class Shock 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 				};
 				
@@ -96,17 +96,17 @@ class cfgVehicles
 				{
 					class Health 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 					
 					class Blood 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 					
 					class Shock 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 				};
 				
@@ -114,17 +114,17 @@ class cfgVehicles
 				{
 					class Health 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 					
 					class Blood 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 					
 					class Shock 
 					{
-						damage = 0.2;
+						damage = 0.25;
 					};
 				};
 			};
